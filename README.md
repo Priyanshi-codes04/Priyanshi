@@ -2,12 +2,16 @@
 <tr>
 <td width = "60%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&Height=300&pause=1000&color=1EA9F7&width=435&lines=Hey!+I'm+Priyanshi.....)](https://git.io/typing-svg)
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&height=170&pause=1000&color=0C82F7&width=435&lines=Hey!+I'm+Priyanshi.....)](https://git.io/typing-svg)
 </td>
-<td width = "40%"></td>
-<img src ="https://media.tenor.com/7rp7aAKf52cAAAAi/ai-grok.gif"height="150">
+<td width = "40%">
+<img src="https://media.tenor.com/7rp7aAKf52cAAAAi/ai-grok.gif"></td>
 </tr>
 </table>
+
 
 
 ---
@@ -33,7 +37,7 @@
 ---
 #Socials :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Priyanshi.)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshi-a603b7380/)
 
 
 ---
@@ -56,11 +60,16 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js" height="50"/>
 
+
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
+
+
+
+
 
 ### Tools & Platforms
 
@@ -72,4 +81,6 @@
 
 
 ---
+
+
 
